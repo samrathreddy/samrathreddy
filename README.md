@@ -8,11 +8,11 @@
 <br>
 
   👨‍💼  :  About me
-- 👨‍🎓  : I’m currently learning: `Computer Science` & `Software Engineering`.
+- 👨‍🎓  : I’m currently studying`Computer Science` & `Software Engineering`.
 - 🖥️  : `Kali OS` `Windows`
 - 🤟  : I always welcome `challenges`
 - 🤔 : Intereseted in exploring `C++` `SQL` `JS` and `Many more...`
-- 💡  :I am currently focusing on `ata Structures` and `Algorithm`
+- 💡  :I am currently focusing on `Data Structures` and `Algorithm`
 - 🤓 : Learning has no boundaries
 <br>
 
