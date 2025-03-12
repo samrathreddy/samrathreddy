@@ -32,10 +32,9 @@
 ---
 
 ### 📊 Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/samrathreddy?theme=dark&font=Karma&ext=heatmap)
 ![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrathreddy&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrathreddy&layout=compact&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/samrathreddy?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
